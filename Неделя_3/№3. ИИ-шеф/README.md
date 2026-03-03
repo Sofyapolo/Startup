@@ -15,40 +15,40 @@
 ## Шаг 2. Сбор исходных наблюдений (desk research)
 
 1. **Источник:** https://www.reddit.com/r/Adulting/comments/1jxppu6  (Source 1)
+
    **Что узнали:** пользователи описывают не только усталость от готовки, но и "ментальную нагрузку" от ежедневного решения "что на ужин".  
-   **Что скринить:** заголовок поста и топ-комментарий про "you hate the mental load of deciding every day".
 
 2. **Источник:** https://www.reddit.com/r/personalfinance/comments/1prza5f/spending_on_food_delivery/  (Source 2)
+
    **Что узнали:** повторяющийся паттерн перерасхода на доставку из-за усталости/нежелания готовить; пользователи сами называют meal planning способом снизить расходы.  
-   **Что скринить:** основной пост + комментарии про наценки/fees и переход к планированию меню.
 
 3. **Источник:** https://www.reddit.com/r/EatCheapAndHealthy/comments/eti8ec  (Source 3)
+
    **Что узнали:** даже мотивированные пользователи устают от ежедневного цикла "готовка - нарезка - планирование" и ищут более эффективный процесс.  
-   **Что скринить:** тело поста с описанием времени на завтрак/обед/ужин.
 
 4. **Источник:** https://support.myfitnesspal.com/hc/en-us/articles/34347103172877-Meal-Planner (Source 4) 
+
    **Что узнали:** крупный трекер питания прямо формулирует ценность как "less takeout", персональный план и интеграции с grocery delivery.  
-   **Что скринить:** блоки "less takeout" и "grocery delivery services".
 
 5. **Источник:** https://apps.apple.com/us/app/eat-this-much-meal-planner/id981637806  (Source 5)
+
    **Что узнали:** спрос на автопланирование питания и список покупок подтверждается позиционированием продукта ("diet on autopilot", weekly meal plans + grocery list).  
-   **Что скринить:** описание приложения с фразами про autopilot/weekly plan/grocery list.
 
 6. **Источник:** https://www.anylist.com/meal-planning  (Source 6)
+
    **Что узнали:** отдельная ценность для пользователей - конвертация плана питания в grocery list в 1-2 действия и синхронизация на семью/пару.  
-   **Что скринить:** блок "Easily Generate a Grocery List" и тезис "What's for dinner?!".
 
 7. **Источник:** https://www.epa.gov/recycle/preventing-wasted-food-home  (Source 7)
+
    **Что узнали:** официальные рекомендации подтверждают, что планирование и список покупок связаны с экономией денег и снижением пищевых отходов.  
-   **Что скринить:** раздел "Planning and Shopping Tips" + фразу про экономию денег.
 
 8. **Источник:** https://www.ers.usda.gov/index.php/data-products/food-price-outlook/summary-findings  (Source 8)
+
    **Что узнали:** еда вне дома дорожает быстрее, чем еда для дома (food-away-from-home выше food-at-home), что усиливает мотивацию готовить и планировать дома.  
-   **Что скринить:** абзац с сравнением CPI по food-away-from-home и food-at-home.
 
 9. **Источник:** https://www.frontiersin.org/journals/cognition/articles/10.3389/fcogn.2025.1719312/full  (Source 9)
+
    **Что узнали:** научный обзор подтверждает, что decision fatigue снижает качество и скорость решений; это напрямую объясняет вечернюю проблему выбора еды.  
-   **Что скринить:** abstract/intro с тезисом про снижение эффективности решений при decision fatigue.
 
 ---
 
