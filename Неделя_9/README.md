@@ -1,4 +1,4 @@
-<img width="484" height="29" alt="image" src="https://github.com/user-attachments/assets/6a2cc8a6-b45e-4bce-a9d8-ad30fa0cb9e0" /><img width="484" height="29" alt="image" src="https://github.com/user-attachments/assets/23a54b96-b5df-46d0-8dfa-ab9f6b552aa7" />## Общая
+## Общая
 
 **Дисциплина:** Стартап в информационных технологиях  
 **Неделя:** 9  
